@@ -1,1 +1,0 @@
-# keboola-agent-test
